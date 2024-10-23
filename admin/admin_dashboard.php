@@ -16,6 +16,8 @@ include '../includes/header.php';
 <ul>
     <li><a href="verkiezing_uit_schrijven.php">Verkiezing Uitschrijven</a></li>
     <li><a href="partijen_goedkeuren.php">Partijen Goedkeuren</a></li>
+    <a href="add_partij.php">Partij Registreren</a>
+
 </ul>
 
 <?php include '../includes/footer.php'; ?>
